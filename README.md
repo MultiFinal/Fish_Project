@@ -12,10 +12,10 @@
     - serial.**version** '3.5.b0'
     - numpy.**version** '1.23.4'
     - cv2.**version** '4.6.0'
-    - pybase64.**version** 1.2.3
-    - from PIL import Image Image.**version** 8.1.2
-    - re.**version** 2.2.1
+    - pybase64.**version** '1.2.3'
+    - from PIL import Image Image.**version** '8.1.2'
+    - re.**version** '2.2.1'
 - Arduino
-    - LiquidCrystal **version** 1.0.7
-    - Servo **version** 1.1.8
-    - HX711 Arduino Library **version** 0.7.5
+    - LiquidCrystal **version** '1.0.7'
+    - Servo **version** '1.1.8'
+    - HX711 Arduino Library **version** '0.7.5'
